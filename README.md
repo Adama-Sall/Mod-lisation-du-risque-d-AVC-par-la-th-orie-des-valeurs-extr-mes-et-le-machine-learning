@@ -103,11 +103,11 @@ Cette section applique la **théorie des valeurs extrêmes** pour étudier le co
 - Rééchantillonnage des données avec **SMOTE** pour traiter le déséquilibre de la variable cible.
 - Normalisation des variables numériques. 
 - Séparation en **train** et **test** (par exemple 70 % / 30 %).  
-- Entraînement d’un modèle (régression logistique ML, ou autres modèles que tu as utilisés).  
+- Entraînement d’un modèle (régression logistique ML, Arbre de décision, Random forest, SVM, Gradient Boosting,Réseau de neuron etc... ).  
 - Évaluation des performances :
   - Matrice de confusion.
   - Taux de bon et mauvais classement.
-  - AUC, courbe ROC, etc.[file:1][web:9]
+  - AUC, courbe ROC, etc.
 
 ## Structure du dépôt
 
