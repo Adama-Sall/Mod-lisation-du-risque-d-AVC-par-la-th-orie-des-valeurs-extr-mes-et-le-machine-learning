@@ -72,7 +72,7 @@ Cette section applique la **théorie des valeurs extrêmes** pour étudier le co
   - Paramètre de **localisation**.
   - Paramètre d’**échelle**.
   - Paramètre de **forme** (qui contrôle l’épaisseur de la queue).
-- Utilisation de méthodes numériques d’estimation (maximum de vraisemblance, etc.) via les fonctions des packages R (par ex. `extRemes`, `evd`).[file:1]
+- Utilisation de méthodes numériques d’estimation (maximum de vraisemblance, etc.) via les fonctions des packages R (par ex. `extRemes`, `evd`).
 
 **Quantiles extrêmes et niveaux de retour :**
 - Calcul de **quantiles extrêmes** associés à de faibles probabilités d’occurrence (par exemple quantile à 0,99 ou 0,999).
